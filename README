@@ -1,0 +1,16 @@
+SIPs (Sphinx Implementation Protocols) Documentation
+
+Welcome to the SIP (Sphinx Implementation Protocols) documentation repository!
+
+This repository and its associated Wiki are dedicated to capturing the technological specifications, design decisions, and ideas behind the Sphinx Blockchain project. It serves as a collection of protocols, guidelines, and standards that shape the development of Sphinx and ensure that it progresses toward its goals in a structured and transparent manner.
+
+About SIPs
+
+SIP is an acronym for Sphinx Implementation Protocols. The SIP documents provide in-depth details on various aspects of the Sphinx Blockchain, including:
+
+Core technologies and cryptographic standards.
+Protocols for staking, governance, and consensus mechanisms.
+Security models, including resistance to quantum computing attacks.
+Cross-chain migration strategies and interoperability features.
+Ongoing improvements, including proposals for future upgrades.
+The goal of SIPs is to create a reliable and forward-looking foundation for the development of the Sphinx Blockchain, making sure it stays resilient and innovative as the blockchain space evolves.
