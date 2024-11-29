@@ -164,7 +164,6 @@ bayan
 bayem
 bebek
 bedak
-bedil
 begana
 begawa
 bejana
@@ -348,8 +347,6 @@ delima
 delta
 demak
 demo
-demograf
-dempul
 denah
 dendang
 dendeng
@@ -1542,7 +1539,6 @@ permata
 peron
 persegi
 persen
-pertapa
 peru
 pesawat
 pesta
