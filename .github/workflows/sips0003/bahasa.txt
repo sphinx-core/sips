@@ -245,9 +245,6 @@ candi
 candu
 canggu
 cangkir
-cangkok
-cangkring
-cangkul
 caos
 cap
 caping
@@ -1897,9 +1894,6 @@ terasa
 terbit
 teri
 terigu
-ternak
-terong
-terusir
 tiga
 tiket
 timor
