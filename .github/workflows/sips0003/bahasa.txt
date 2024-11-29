@@ -38,7 +38,6 @@ ambigu
 ambil
 ambon
 ambulan
-ambyar
 amerta
 amino
 amnesti
@@ -1173,8 +1172,6 @@ las
 latar
 lativa
 lava
-lavender
-lavenia
 lawak
 layang
 layar
@@ -1210,7 +1207,6 @@ lintah
 lintang
 listrik
 liter
-literasi
 litium
 liver
 lobi
@@ -1218,8 +1214,7 @@ lobster
 log
 logat
 logika
-logis
-logistik
+logi
 logo
 loka
 loket
@@ -1348,13 +1343,11 @@ megabyte
 megah
 mei
 meja
-mekania
 mekanik
 mekanika
 mekar
 melati
 memo
-memorat
 memori
 menabuh
 menakar
@@ -1397,7 +1390,6 @@ mini
 miniatur
 minim
 minor
-mirakel
 mitasi
 mitogen
 mitos
@@ -1412,12 +1404,10 @@ motif
 muara
 mulia
 musik
+mawar
 nada
 nadir
 nanas
-nanometer
-nanosekon
-narapati
 narasi
 naratif
 narator
@@ -1606,7 +1596,6 @@ puisi
 pulen
 pules
 pulpen
-pulper
 pulsa
 pulsar
 purba
@@ -1618,11 +1607,8 @@ putra
 putri
 puyuh
 python
-qatar
 rabu
 radar
-raden
-rades
 radial
 radiasi
 radio
@@ -1646,7 +1632,6 @@ redam
 rekam
 relasi
 reli
-reliabel
 relief
 rembulan
 rempah
