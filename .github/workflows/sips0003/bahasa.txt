@@ -723,7 +723,6 @@ horizon
 horor
 hujan
 hulu
-humanisme
 humor
 humoris
 huruf
@@ -809,8 +808,6 @@ jasa
 jatah
 jati
 jauh
-javanica
-javanicus
 jawa
 jawab
 jawara
@@ -856,13 +853,11 @@ jiwa
 joging
 joglo
 johor
-jombang
 jompo
 joran
 juang
 juara
 judul
-jumanten
 jumat
 jumawa
 jumbo
@@ -875,9 +870,7 @@ juragan
 juri
 jurnal
 juru
-jurusan
 jus
-justicia
 juta
 kabin
 kabut
@@ -937,7 +930,6 @@ karbol
 karbon
 karbonat
 karbonit
-karburasi
 karcis
 kardinal
 kardus
@@ -987,7 +979,6 @@ kelambu
 kelinci
 kemang
 kemangi
-kemayoran
 kemayu
 kembar
 kemeja
@@ -1071,13 +1062,6 @@ koneksi
 konser
 konsol
 konstan
-konsul
-konsulat
-konsulen
-konsuler
-konsumen
-konsumer
-konsumsi
 kontak
 konteks
 konten
@@ -1304,7 +1288,6 @@ makna
 mako
 makro
 makros
-malaysia
 maleo
 malta
 mamalia
@@ -1341,7 +1324,6 @@ matador
 matahari
 mataram
 matematik
-matematika
 materai
 materi
 material
@@ -1392,11 +1374,9 @@ meramu
 meranti
 meriah
 meta
-metafisik
 metafora
 metal
 metalik
-metamorfis
 metana
 metanol
 meteor
@@ -1408,9 +1388,6 @@ metode
 metrik
 metro
 mikro
-mikroba
-mikrobe
-mikroskop
 milenium
 mimpi
 minahasa
@@ -1448,7 +1425,6 @@ nasa
 naskah
 natural
 navigasi
-navigator
 negeri
 nelayan
 neon
@@ -1472,7 +1448,6 @@ nyonya
 oasis
 obat
 objek
-objektif
 obrolan
 obsesi
 obsesif
@@ -1589,7 +1564,6 @@ ponsel
 populer
 porsi
 port
-portabel
 portal
 porto
 positif
@@ -1624,14 +1598,7 @@ prospek
 protein
 proto
 proton
-prototipe
-provinsi
-proyektil
-proyektor
 pseudo
-pseudonim
-psikiater
-psikiatri
 psikis
 puber
 pucuk
@@ -1688,9 +1655,6 @@ resep
 residen
 residu
 resin
-resinol
-resisten
-resistor
 resort
 respon
 retro
@@ -1795,7 +1759,6 @@ simpatik
 simponi
 simpul
 simulasi
-simulator
 simultan
 sinar
 sinden
@@ -1866,7 +1829,6 @@ stasioner
 stasiun
 statik
 statis
-statistis
 status
 stela
 stereo
@@ -1940,9 +1902,6 @@ tensi
 tenun
 teolog
 teologi
-teorem
-teoretik
-teoretis
 teori
 teralis
 teramat
@@ -1982,9 +1941,7 @@ transfer
 transisi
 trias
 tribun
-tribunal
 tribune
-trimatra
 trimer
 tuas
 tugas
@@ -2004,7 +1961,6 @@ turbin
 turbo
 turing
 turis
-turnamen
 turun
 turut
 tutuk
@@ -2052,7 +2008,6 @@ urap
 urat
 urban
 urgen
-urgensi
 usb
 usia
 usul
@@ -2062,8 +2017,6 @@ vakansi
 vakasi
 vakum
 valas
-valens
-valensi
 valentin
 valid
 vampir
@@ -2074,10 +2027,8 @@ vans
 variabel
 varian
 vektor
-velodrome
 vendor
 venesia
-venezuela
 venom
 ventura
 venus
@@ -2103,13 +2054,9 @@ visa
 visi
 visibel
 vision
-visioner
-viskom
 vista
 visual
 vitamin
-viverra
-voal
 vodka
 volt
 volta
@@ -2119,7 +2066,6 @@ wadung
 wajah
 waktu
 walet
-waringin
 waris
 warnet
 watak
@@ -2133,8 +2079,6 @@ xenia
 yodium
 yoghurt
 yogya
-yudisial
-yudisium
 yunai
 zamrud
 zamzam
