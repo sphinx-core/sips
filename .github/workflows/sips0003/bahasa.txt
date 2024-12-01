@@ -28,6 +28,7 @@ alis
 alit
 alor
 alpabet
+alpukat
 alunan
 alur
 alus
@@ -61,7 +62,6 @@ antena
 antero
 antik
 anyelir
-anyep
 apendik
 april
 apung
@@ -90,7 +90,6 @@ artisan
 arum
 arwana
 arya
-asep
 aseptik
 aset
 asih
@@ -134,7 +133,7 @@ band
 bandara
 bang
 bangsa
-banjaran
+banjar
 bantar
 banten
 banteng
@@ -193,6 +192,7 @@ bintan
 bintang
 biola
 bir
+biru
 bison
 blanko
 blantik
@@ -332,8 +332,6 @@ degan
 dekap
 dekode
 dekoder
-dekoratif
-dekorator
 dekret
 deksa
 delapan
@@ -702,7 +700,6 @@ hipotesa
 hirap
 hirarki
 hirau
-hiroshima
 hirosima
 histeris
 hitam
@@ -730,7 +727,6 @@ idam
 ideal
 idealis
 identik
-identitas
 ideologi
 idola
 ikan
@@ -761,7 +757,6 @@ india
 indian
 indigo
 indikasi
-indonesia
 induk
 induksi
 indung
@@ -843,7 +838,6 @@ jetis
 jinak
 jingo
 jinten
-jipang
 jiran
 jiwa
 joging
@@ -862,7 +856,7 @@ juncto
 juni
 junior
 juntai
-juragan
+jupiter
 juri
 jurnal
 juru
@@ -905,8 +899,6 @@ kantor
 kanvas
 kapal
 kapas
-kapasitas
-kapasitor
 kapstok
 kapsul
 kapten
@@ -1119,6 +1111,7 @@ kunci
 kuncir
 kungfu
 kunyit
+kuning
 kuorum
 kuota
 kupang
@@ -1291,9 +1284,7 @@ manik
 mantel
 mantra
 manual
-manunggal
 manusia
-manuskrip
 manuver
 marakas
 maraton
@@ -1360,7 +1351,7 @@ menguat
 menit
 menjala
 merak
-meramu
+merah
 meranti
 meriah
 meta
@@ -1429,6 +1420,7 @@ nota
 nova
 november
 numerik
+neptunus
 nutrisi
 nyepi
 nyonya
@@ -1457,6 +1449,7 @@ oriental
 orion
 orkes
 orkestra
+oren
 osaka
 otoritas
 pabrik
@@ -1724,7 +1717,6 @@ silika
 simbol
 simetri
 simetris
-simfisis
 simfoni
 simia
 simil
@@ -1807,7 +1799,6 @@ star
 start
 starter
 stasion
-stasioner
 stasiun
 statik
 statis
@@ -1916,8 +1907,6 @@ topi
 toraja
 tragedi
 trans
-transfer
-transisi
 trias
 tribun
 tribune
@@ -2022,8 +2011,6 @@ vibran
 vibrasi
 video
 vietnam
-vigna
-viola
 virgin
 virginia
 virgo
@@ -2050,15 +2037,12 @@ warnet
 watak
 watt
 wijen
-winter
 wisata
 wisma
 wujud
-xenia
 yodium
-yoghurt
 yogya
-yunai
+yoga
 zamrud
 zamzam
 zodiak
