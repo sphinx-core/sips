@@ -54,6 +54,7 @@ angklung
 angkur
 angola
 angpao
+angsa
 angsana
 animasi
 anomali
@@ -166,7 +167,6 @@ begana
 begawa
 bejana
 bekasi
-bekatul
 beku
 belacan
 bemo
@@ -2025,7 +2025,7 @@ visual
 vitamin
 vodka
 volt
-volta
+voltase
 wadah
 waduk
 wadung
