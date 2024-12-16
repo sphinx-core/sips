@@ -1,0 +1,1 @@
+https://github.com/sphinx-core/sips/wiki/SIPS0004
