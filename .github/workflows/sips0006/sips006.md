@@ -8,9 +8,9 @@
 
 **$SPX** is the native cryptocurrency of the SPHINX blockchain ecosystem, designed to fuel decentralized applications, quantum-secure, smart contracts, and digital asset exchanges. This outline the structure of the total supply, distribution, and coin's management. This model is designed to ensure long-term sustainability, reward ecosystem participants, and provide transparency for the community.
 
-**$SPX** is a product, **NOT a security or investment offering**, it is simply a coins useful for paying transaction fees or building or purchasing decentralized application services on the SPHINX platform; 
+**$SPX** is a utility coins and **not a security or an investment offering**. It is primarily used for paying transaction fees, as well as for building and accessing decentralized applications (dApps) on the SPHINX platform.
 
-> ### **It does not give you voting rights over anything, and we make no guarantees of its future value.**
+> ### **Please note, holding $SPX does not grant any voting rights or ownership over the platform, nor do we make any guarantees regarding its future value or performance.**
 
 
 This document outlines the breakdown of the coinomics, covering all critical areas, from development cost structures to strategic coins distributions aimed at sustaining the project's growth over the coming years. With a transparent and well-structured approach, aims to build a thriving ecosystem that benefits all stakeholders while ensuring its long-term success and value appreciation.
