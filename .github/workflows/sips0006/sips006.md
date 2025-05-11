@@ -34,6 +34,7 @@ Despite the setbacks, we remain focused on the long-term vision for the SPHINX b
 
 ### 1. Total Supply and Initial Parameters
 
+- **Total Supply**: 5,000,000,000 coins  
 - **Total Supply**: 100,000,000 coins  
 - **Initial Coin Price**: $0.06  
 - **Initial Total Value**: 100,000,000 × 0.06 = $6,000,000  
