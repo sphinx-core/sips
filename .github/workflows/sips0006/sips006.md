@@ -44,7 +44,7 @@ Despite the setbacks, we remain focused on the long-term vision for the SPHINX b
 |---------------------------------------------------------|------------|-----------------|--------------------|----------------------------------------------------------------------------|
 | **Founder**                                             | 10%        | 10,000,000      | $600,000           | Vesting model over 3 years, quarterly unlocks, including their plans for charity.                              |
 | **Co-founder**                                          | 7%         | 7,000,000       | $420,000           | Vesting model over 3 years, quarterly unlocks, including their plans for charity.                              |
-| **Engineers (Development)**                             | 30%        | 30,000,000      | $1,800,000         | Paid per module. The first 2,000 modules targeted to be completed over 2 years.      |
+| **Development Fund**                             | 30%        | 30,000,000      | $1,800,000         | Paid per module. The first 2,000 modules targeted to be completed over 2 years.      |
 | **Contributors (Legal, Advisors, Chief Security, Partners, Community Managers)** | 20% | 20,000,000      | $1,200,000         | Split based on roles, vesting or milestone-based.                          |
 | **SPHINX Foundation**                                   | 20%        | 20,000,000      | $1,200,000         | Foundation to support ecosystem, development, and sustainability.          |
 | **Campaigns**                                           | 8%         | 8,000,000       | $480,000           | Used for outreach, partnerships, and awareness campaigns.                  |
